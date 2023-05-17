@@ -1,0 +1,233 @@
+Country,Sl,Rank,GHSI,who_region,status,JEE.Tool.Version,ReadyScore,prevent,detect,respond,other,Code,Date,TotalDeathsPerMillion,DailyDeathsPermillion
+Anguilla,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,AIA,1-Jul-20,0,0
+Aruba,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,ABW,1-Jul-20,28.099,0
+Bermuda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,BMU,1-Jul-20,144.525,0
+Bonaire Sint Eustatius and Saba,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,BES,1-Jul-20,0,0
+British Virgin Islands,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,VGB,1-Jul-20,33.072,0
+Cayman Islands,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CYM,1-Jul-20,15.216,0
+Cote d'Ivoire,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CIV,1-Jul-20,2.578,0.076
+Curacao,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CUW,1-Jul-20,6.094,0
+Democratic Republic of Congo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,COD,1-Jul-20,1.887,0.022
+Faeroe Islands,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FRO,1-Jul-20,0,0
+Falkland Islands,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FLK,1-Jul-20,0,0
+French Polynesia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,PYF,1-Jul-20,0,0
+Gibraltar,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,GIB,1-Jul-20,0,0
+Greenland,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,GRL,1-Jul-20,0,0
+Guam,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,GUM,1-Jul-20,29.624,0
+Guernsey,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,GGY,1-Jul-20,193.879,0
+Isle of Man,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,IMN,1-Jul-20,282.247,0
+Jersey,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,JEY,1-Jul-20,306.709,0
+Kosovo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,OWID_KOS,1-Jul-20,26.387,1.035
+Macedonia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,MKD,1-Jul-20,144.957,1.92
+Montserrat,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,MSR,1-Jul-20,200.04,0
+New Caledonia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NCL,1-Jul-20,0,0
+Northern Mariana Islands,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,MNP,1-Jul-20,34.748,0
+Palestine,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,PSE,1-Jul-20,1.764,0.196
+Puerto Rico,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,PRI,1-Jul-20,53.481,0
+Sint Maarten (Dutch part),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,SXM,1-Jul-20,349.797,0
+Taiwan,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,TWN,1-Jul-20,0.294,0
+Timor,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,TLS,1-Jul-20,0,0
+Turks and Caicos Islands,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,TCA,1-Jul-20,51.656,25.828
+United States Virgin Islands,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,VIR,1-Jul-20,57.459,0
+Vatican,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,VAT,1-Jul-20,0,0
+Western Sahara,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,ESH,1-Jul-20,1.674,0
+Vietnam,50,50,49.1,NA,NA,NA,NA,NA,NA,NA,NA,VNM,1-Jul-20,0,0
+Liechtenstein,71,71,43.5,NA,NA,NA,NA,NA,NA,NA,NA,LIE,1-Jul-20,26.221,0
+Venezuela,176,176,23,NA,NA,NA,NA,NA,NA,NA,NA,VEN,1-Jul-20,1.794,0.106
+Syria,188,188,19.9,NA,NA,NA,NA,NA,NA,NA,NA,SYR,1-Jul-20,0.514,0
+São Tomé and Príncipe,192,192,17.7,NA,NA,NA,NA,NA,NA,NA,NA,STP,1-Jul-20,59.317,0
+North Korea,193,193,17.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Canada,5,5,75.3,AMR,Completed,v1,93,91,96,94,93,CAN,1-Jul-20,227.623,0.662
+Singapore,24,24,58.7,WPR,Completed,v1,93,98,98,89,80,SGP,1-Jul-20,4.444,0
+Australia,4,4,75.5,WPR,Completed,v1,92,96,93,85,93,AUS,1-Jul-20,4.078,0
+South Korea,9,9,70.2,WPR,Completed,v1,92,95,96,82,97,KOR,1-Jul-20,5.5,0
+Japan,21,21,59.8,WPR,Completed,v1,92,95,92,85,97,JPN,1-Jul-20,7.701,0.016
+United Arab Emirates,56,56,46.7,EMR,Completed,v1,91,89,86,99,90,ARE,1-Jul-20,31.849,0.101
+Armenia,44,44,50.2,EUR,Completed,v1,90,93,80,98,83,ARM,1-Jul-20,149.499,3.375
+Switzerland,13,13,67,EUR,Completed,v1,89,87,95,86,90,CHE,1-Jul-20,194.463,0.231
+New Zealand,36,35,54,WPR,Completed,v2,89,85,93,88,93,NZL,1-Jul-20,4.562,0
+United States,1,1,83.5,AMR,Completed,v1,87,87,91,88,80,USA,1-Jul-20,384.921,3.837
+Finland,10,10,68.7,EUR,Completed,v1,86,82,85,93,87,FIN,1-Jul-20,59.198,0
+Belgium,19,19,61,EUR,Completed,v1,85,85,83,83,90,BEL,1-Jul-20,841.615,0.173
+Oman,76,73,43.1,EMR,Completed,v1,84,86,77,91,80,OMN,1-Jul-20,34.465,1.371
+Slovenia,12,12,67.2,EUR,Completed,v1,82,84,79,83,77,SVN,1-Jul-20,53.393,0
+Bahrain,88,88,39.4,EMR,Completed,v1,80,77,87,90,60,BHR,1-Jul-20,51.129,1.763
+Thailand,6,6,73.2,SEAR,Completed,v1,76,79,74,72,77,THA,1-Jul-20,0.831,0
+Saudi Arabia,48,47,49.3,EMR,Completed,v1,76,70,72,84,80,SAU,1-Jul-20,47.366,1.436
+Kyrgyzstan,47,47,49.3,EUR,Completed,v1,75,64,73,83,90,KGZ,1-Jul-20,9.503,0.766
+Lithuania,33,33,55,EUR,Completed,v2,74,78,72,73,73,LTU,1-Jul-20,28.652,0
+Kuwait,59,59,46.1,EMR,Completed,v1,74,70,73,83,70,KWT,1-Jul-20,82.893,0.937
+Latvia,17,17,62.9,EUR,Completed,v1,73,81,70,71,63,LVA,1-Jul-20,15.905,0
+Morocco,69,68,43.7,EMR,Completed,v1,70,65,71,81,60,MAR,1-Jul-20,6.177,0.081
+Qatar,82,82,41.2,EMR,Completed,v1,69,65,73,76,60,QAT,1-Jul-20,39.222,0
+Turkmenistan,136,135,31.8,EUR,Completed,v1,65,69,60,67,60,NA,NA,NA,NA
+Indonesia,30,30,56.6,SEAR,Completed,v1,64,60,64,67,63,IDN,1-Jul-20,10.515,0.26
+South Africa,34,34,54.8,AFR,Completed,v1,62,64,65,60,60,ZAF,1-Jul-20,44.8,2.158
+Albania,39,39,52.9,EUR,Completed,v1,62,68,73,49,57,ALB,1-Jul-20,21.544,1.39
+Mauritius,114,114,34.9,AFR,Completed,,60,58,59,60,70,MUS,1-Jul-20,7.863,0
+Mongolia,46,46,49.5,WPR,Completed,v1,59,59,68,54,57,MNG,1-Jul-20,0,0
+Rwanda,119,117,34.2,AFR,Completed,v1,59,60,61,60,50,RWA,1-Jul-20,0.154,0
+Tunisia,122,122,33.7,EMR,Completed,v1,59,57,65,62,50,TUN,1-Jul-20,4.231,0
+Viet Nam,NA,NA,NA,WPR,Completed,v1,57,65,62,46,47,NA,NA,NA,NA
+Georgia,43,42,52,EUR,Completed,v2,57,60,79,45,43,GEO,1-Jul-20,3.76,0
+Moldova,78,78,42.9,EUR,Completed,v2,57,61,65,51,47,MDA,1-Jul-20,135.103,2.231
+Jordan,80,80,42.1,EMR,Completed,v1,57,55,62,63,47,JOR,1-Jul-20,0.882,0
+North Macedonia,90,90,39.1,EUR,Completed,,57,52,56,60,67,NA,NA,NA,NA
+Sri Lanka,120,120,33.9,SEAR,Completed,v1,57,59,65,51,50,LKA,1-Jul-20,0.514,0
+Sudan,164,163,26.2,EMR,Completed,v1,57,54,50,75,43,SDN,1-Jul-20,13.045,0
+Lebanon,74,73,43.1,EMR,Completed,v1,56,57,56,55,57,LBN,1-Jul-20,4.981,0
+Serbia,41,41,52.3,EUR,Completed,v2,55,56,62,53,47,SRB,1-Jul-20,40.708,0.441
+Micronesia,124,124,32.8,WPR,Completed,v1,55,54,60,64,37,NA,NA,NA,NA
+Laos,73,73,43.1,WPR,Completed,v1,53,56,67,50,30,LAO,1-Jul-20,0,0
+Seychelles,134,133,31.9,AFR,Completed,v1,53,63,66,42,33,SYC,1-Jul-20,0,0
+Philippines,53,53,47.6,WPR,Completed,v2,52,43,59,58,53,PHL,1-Jul-20,11.553,0.1
+Ethiopia,84,84,40.6,AFR,Completed,v1,52,56,59,50,33,ETH,1-Jul-20,0.896,0
+Uganda,64,63,44.3,AFR,Completed,v1,51,52,64,49,33,UGA,1-Jul-20,0,0
+Kenya,55,55,47.1,AFR,Completed,v1,50,57,59,40,37,KEN,1-Jul-20,2.752,0.074
+Pakistan,107,105,35.5,EMR,Completed,v1,50,46,51,49,60,PAK,1-Jul-20,19.897,0.412
+Bangladesh,113,113,35,SEAR,Completed,v1,50,58,70,32,33,BGD,1-Jul-20,11.215,0.389
+Tanzania,101,101,36.4,AFR,Completed,v1,49,51,54,40,50,TZA,1-Jul-20,0.352,0
+Cambodia,89,89,39.2,WPR,Completed,v1,48,57,54,36,40,KHM,1-Jul-20,0,0
+Maldives,121,121,33.8,SEAR,Completed,v1,47,58,58,35,27,MDV,1-Jul-20,16.65,1.85
+Mozambique,153,153,28.1,AFR,Completed,v1,47,46,51,50,40,MOZ,1-Jul-20,0.192,0
+Liberia,111,111,35.1,AFR,Completed,v1,46,42,48,64,23,LBR,1-Jul-20,7.118,0
+Iraq,167,167,25.8,EMR,Completed,v2,46,41,50,47,53,IRQ,1-Jul-20,48.306,2.586
+Eritrea,178,178,22.4,AFR,Completed,v1,46,49,58,43,30,ERI,1-Jul-20,0,0
+Senegal,95,95,37.9,AFR,Completed,v1,45,41,59,44,37,SEN,1-Jul-20,6.689,0.239
+Ghana,106,105,35.5,AFR,Completed,v1,45,48,51,36,47,GHA,1-Jul-20,3.604,0
+Bhutan,85,85,40.3,SEAR,Completed,v1,44,55,53,31,27,BTN,1-Jul-20,0,0
+Namibia,104,104,35.6,AFR,Completed,v1,44,49,60,31,30,NAM,1-Jul-20,0,0
+Libya,169,168,25.7,EMR,Completed,,44,49,53,36,37,LBY,1-Jul-20,3.493,0.437
+Sierra Leone,92,92,38.2,AFR,Completed,v1,43,36,51,51,37,SLE,1-Jul-20,7.522,0
+Côte d'Ivoire,105,105,35.5,AFR,Completed,v1,42,42,54,37,33,NA,NA,NA,NA
+Zambia,152,152,28.7,AFR,Completed,v1,42,48,52,31,37,ZMB,1-Jul-20,1.305,0.109
+Myanmar,72,72,43.4,SEAR,Completed,v1,41,45,56,34,27,MMR,1-Jul-20,0.11,0
+Zimbabwe,93,92,38.2,AFR,Completed,v1,40,42,59,28,30,ZWE,1-Jul-20,0.471,0
+Botswana,139,139,31.1,AFR,Completed,v1,40,40,52,34,37,BWA,1-Jul-20,0.425,0
+Nigeria,96,96,37.8,AFR,Completed,v1,39,39,51,31,37,NGA,1-Jul-20,2.862,0.082
+Cameroon,115,115,34.4,AFR,Completed,v1,38,38,53,35,27,CMR,1-Jul-20,11.791,0
+Afghanistan,130,130,32.3,EMR,Completed,v1,38,32,48,48,20,AFG,1-Jul-20,19.163,0.334
+Lesotho,144,144,30.2,AFR,Completed,v1,38,41,45,37,20,LSO,1-Jul-20,0,0
+Mauritania,158,157,27.5,AFR,Completed,v1,38,39,52,30,33,MRT,1-Jul-20,27.099,0
+Madagascar,86,86,40.1,AFR,Completed,v1,37,38,51,33,23,MDG,1-Jul-20,0.722,0
+Togo,129,129,32.5,AFR,Completed,v1,36,36,48,32,27,TGO,1-Jul-20,1.691,0
+Swaziland,140,139,31.1,AFR,Completed,v1,36,36,47,33,27,SWZ,1-Jul-20,9.481,0
+Guinea,126,125,32.7,AFR,Completed,v1,35,39,52,25,20,GIN,1-Jul-20,2.513,0.152
+Mali,149,147,29,AFR,Completed,v1,35,34,52,33,20,MLI,1-Jul-20,5.728,0.049
+Democratic Republic of the Congo,161,161,26.5,AFR,Completed,v1,35,37,53,25,27,NA,NA,NA,NA
+Sao Tome and Principe,NA,NA,NA,AFR,Completed,v2,34,37,38,35,23,NA,NA,NA,NA
+Niger,132,132,32.2,AFR,Completed,v1,34,31,52,31,23,NER,1-Jul-20,2.768,0
+Burkina Faso,145,145,30.1,AFR,Completed,v1,34,34,53,28,20,BFA,1-Jul-20,2.535,0
+Benin,150,150,28.8,AFR,Completed,v1,34,31,54,32,20,BEN,1-Jul-20,1.732,0.165
+Comoros,160,160,27.2,AFR,Completed,v1,34,38,46,27,20,COM,1-Jul-20,8.05,0
+Timor-Leste,166,166,26,SEAR,Completed,v2,34,36,43,30,27,NA,NA,NA,NA
+Gambia,118,117,34.2,AFR,Completed,v1,32,34,38,30,27,GMB,1-Jul-20,0.828,0
+Djibouti,175,175,23.2,EMR,Completed,v1,31,35,38,23,23,DJI,1-Jul-20,54.656,1.012
+Malawi,154,154,28,AFR,Completed,,30,31,41,26,20,MWI,1-Jul-20,0.836,0.105
+Burundi,177,177,22.8,AFR,Completed,v1,30,33,41,25,20,BDI,1-Jul-20,0.084,0
+South Sudan,180,180,21.7,AFR,Completed,v1,30,33,42,23,20,SSD,1-Jul-20,3.305,0
+Guinea-Bissau,187,186,20,AFR,Completed,v2,30,32,32,32,20,GNB,1-Jul-20,12.195,1.524
+Chad,151,150,28.8,AFR,Completed,v1,29,32,40,23,20,TCD,1-Jul-20,4.505,0
+Somalia,194,194,16.6,EMR,Completed,v1,29,23,37,36,20,SOM,1-Jul-20,5.663,0
+Congo,174,173,23.6,AFR,Completed,v2,28,30,39,23,20,COG,1-Jul-20,7.249,0
+Gabon,186,186,20,AFR,Completed,v2,27,22,40,25,23,GAB,1-Jul-20,18.87,0
+Central African Republic,159,159,27.3,AFR,Completed,v2,26,26,31,27,20,CAF,1-Jul-20,9.731,0
+Democratic People's Republic of Korea,NA,NA,NA,SEAR,JEE Scheduled,,0,0,0,0,0,NA,NA,NA,NA
+Syrian Arab Republic,NA,NA,NA,EMR,JEE Scheduled,,0,0,0,0,0,NA,NA,NA,NA
+Venezuela (Bolivarian Republic of),NA,NA,NA,AMR,JEE Not Done and Expressed No Interest,,0,0,0,0,0,NA,NA,NA,NA
+United Kingdom,2,2,77.9,EUR,JEE Not Done and Expressed No Interest,,0,0,0,0,0,GBR,1-Jul-20,644.168,2.283
+Netherlands,3,3,75.6,EUR,JEE Scheduled,,0,0,0,0,0,NLD,1-Jul-20,356.524,0.117
+Sweden,7,7,72.1,EUR,JEE Not Done and Expressed No Interest,,0,0,0,0,0,SWE,1-Jul-20,528.058,2.277
+Denmark,8,8,70.4,EUR,JEE Not Done and Expressed No Interest,,0,0,0,0,0,DNK,1-Jul-20,104.451,0
+France,11,11,68.2,EUR,JEE Not Done and Expressed No Interest,,0,0,0,0,0,FRA,1-Jul-20,457.199,0.46
+Germany,14,14,66,EUR,Completed but Unpublished,,0,0,0,0,0,DEU,1-Jul-20,107.24,0.143
+Spain,15,15,65.9,EUR,JEE Not Done and Expressed No Interest,,0,0,0,0,0,ESP,1-Jul-20,606.633,0.171
+Norway,16,16,64.6,EUR,JEE Not Done and Expressed No Interest,,0,0,0,0,0,NOR,1-Jul-20,46.115,0.184
+Malaysia,18,18,62.2,WPR,Completed but Unpublished,,0,0,0,0,0,MYS,1-Jul-20,3.738,0
+Portugal,20,20,60.3,EUR,JEE Not Done and Expressed No Interest,,0,0,0,0,0,PRT,1-Jul-20,154.56,0.785
+Brazil,22,22,59.7,AMR,JEE Not Done and Expressed No Interest,,0,0,0,0,0,BRA,1-Jul-20,280.364,6.022
+Ireland,23,23,59,EUR,JEE Not Done and Expressed No Interest,,0,0,0,0,0,IRL,1-Jul-20,351.574,0.203
+Argentina,25,25,58.6,AMR,Completed but Unpublished,,0,0,0,0,0,ARG,1-Jul-20,28.919,0.597
+Austria,26,26,58.5,EUR,JEE Not Done and Expressed No Interest,,0,0,0,0,0,AUT,1-Jul-20,78.278,0.222
+Chile,27,27,58.3,AMR,JEE Not Done and Expressed No Interest,,0,0,0,0,0,CHL,1-Jul-20,297.549,5.911
+Mexico,28,28,57.6,AMR,JEE Scheduled,,0,0,0,0,0,MEX,1-Jul-20,215.376,5.026
+Estonia,29,29,57,EUR,JEE Scheduled,,0,0,0,0,0,EST,1-Jul-20,52.015,0
+Italy,31,31,56.2,EUR,JEE Not Done and Expressed No Interest,,0,0,0,0,0,ITA,1-Jul-20,575.024,0.38
+Poland,32,32,55.4,EUR,JEE Not Done and Expressed No Interest,,0,0,0,0,0,POL,1-Jul-20,38.656,0.502
+Hungary,35,35,54,EUR,JEE Not Done and Expressed No Interest,,0,0,0,0,0,HUN,1-Jul-20,60.557,0
+Greece,37,37,53.8,EUR,JEE Not Done and Expressed No Interest,,0,0,0,0,0,GRC,1-Jul-20,18.421,0.096
+Croatia,38,38,53.3,EUR,JEE Not Done and Expressed No Interest,,0,0,0,0,0,HRV,1-Jul-20,26.064,0
+Turkey,40,40,52.4,EUR,JEE Not Done and Expressed No Interest,,0,0,0,0,0,TUR,1-Jul-20,60.838,0.19
+Czechia,42,42,52,EUR,JEE Not Done and Expressed No Interest,,0,0,0,0,0,CZE,1-Jul-20,32.589,0.093
+Ecuador,45,45,50.1,AMR,JEE Not Done and Expressed No Interest,,0,0,0,0,0,ECU,1-Jul-20,256.588,1.417
+Peru,49,49,49.2,AMR,JEE Not Done and Expressed No Interest,,0,0,0,0,0,PER,1-Jul-20,293.493,5.247
+China,51,51,48.2,WPR,JEE Not Done and Expressed No Interest,,0,0,0,0,0,CHN,1-Jul-20,3.224,0
+Slovakia,52,52,47.9,EUR,JEE Not Done and Expressed No Interest,,0,0,0,0,0,SVK,1-Jul-20,5.129,0
+Israel,54,54,47.3,EUR,JEE Not Done and Expressed No Interest,,0,0,0,0,0,ISR,1-Jul-20,36.971,0.116
+India,57,57,46.5,SEAR,JEE Not Done and Expressed No Interest,,0,0,0,0,0,IND,1-Jul-20,12.609,0.367
+Iceland,58,58,46.3,EUR,JEE Not Done and Expressed No Interest,,0,0,0,0,0,ISL,1-Jul-20,29.304,0
+Romania,60,60,45.8,EUR,JEE Not Done and Expressed No Interest,,0,0,0,0,0,ROU,1-Jul-20,85.821,0.884
+Bulgaria,61,61,45.6,EUR,JEE Not Done and Expressed No Interest,,0,0,0,0,0,BGR,1-Jul-20,33.101,1.007
+Costa Rica,62,62,45.1,AMR,JEE Not Done and Expressed No Interest,,0,0,0,0,0,CRI,1-Jul-20,3.141,0.196
+Russia,63,63,44.3,EUR,JEE Not Done and Expressed No Interest,,0,0,0,0,0,RUS,1-Jul-20,63.864,1.055
+Colombia,65,65,44.2,AMR,JEE Scheduled,,0,0,0,0,0,COL,1-Jul-20,65.523,2.181
+El Salvador,66,65,44.2,AMR,JEE Not Done and Expressed No Interest,,0,0,0,0,0,SLV,1-Jul-20,26.826,1.542
+Luxembourg,67,67,43.8,EUR,JEE Not Done and Expressed No Interest,,0,0,0,0,0,LUX,1-Jul-20,175.726,0
+Montenegro,68,68,43.7,EUR,Completed but Unpublished,,0,0,0,0,0,MNE,1-Jul-20,19.106,1.592
+Panama,70,68,43.7,AMR,JEE Not Done and Expressed No Interest,,0,0,0,0,0,PAN,1-Jul-20,146.242,2.549
+Nicaragua,75,73,43.1,AMR,JEE Scheduled,,0,0,0,0,0,NIC,1-Jul-20,12.529,1.359
+Cyprus,77,77,43,EUR,JEE Not Done and Expressed No Interest,,0,0,0,0,0,CYP,1-Jul-20,21.692,0
+Bosnia and Herzegovina,79,79,42.8,EUR,JEE Scheduled,,0,0,0,0,0,BIH,1-Jul-20,56.388,0.61
+Uruguay,81,81,41.3,AMR,JEE Not Done and Expressed No Interest,,0,0,0,0,0,URY,1-Jul-20,7.773,0
+Kazakhstan,83,83,40.7,EUR,JEE Not Done and Expressed No Interest,,0,0,0,0,0,KAZ,1-Jul-20,10.012,0
+Egypt,87,87,39.9,EMR,Completed but Unpublished,,0,0,0,0,0,EGY,1-Jul-20,28.856,0.792
+Dominican Republic,91,91,38.3,AMR,Completed but Unpublished,,0,0,0,0,0,DOM,1-Jul-20,68.861,1.291
+Ukraine,94,94,38,EUR,JEE Scheduled,,0,0,0,0,0,UKR,1-Jul-20,26.821,0.595
+Iran,97,97,37.7,EMR,JEE Not Done and Expressed No Interest,,0,0,0,0,0,IRN,1-Jul-20,128.785,1.75
+Malta,98,98,37.3,EUR,JEE Not Done and Expressed No Interest,,0,0,0,0,0,MLT,1-Jul-20,20.383,0
+Trinidad and Tobago,99,99,36.6,AMR,JEE Not Done and Expressed No Interest,,0,0,0,0,0,TTO,1-Jul-20,5.716,0
+Suriname,100,100,36.5,AMR,JEE Not Done and Expressed No Interest,,0,0,0,0,0,SUR,1-Jul-20,22.16,0
+Bolivia,102,102,35.8,AMR,JEE Not Done and Expressed No Interest,,0,0,0,0,0,BOL,1-Jul-20,96.205,4.455
+Paraguay,103,103,35.7,AMR,JEE Not Done and Expressed No Interest,,0,0,0,0,0,PRY,1-Jul-20,2.383,0.14
+Belarus,108,108,35.3,EUR,JEE Not Done and Expressed No Interest,,0,0,0,0,0,BLR,1-Jul-20,41.484,0.529
+St Lucia,109,108,35.3,AMR,JEE Not Done and Expressed No Interest,,0,0,0,0,0,LCA,1-Jul-20,0,0
+Cuba,110,110,35.2,AMR,JEE Scheduled,,0,0,0,0,0,CUB,1-Jul-20,7.593,0
+Nepal,112,111,35.1,SEAR,JEE Scheduled,,0,0,0,0,0,NPL,1-Jul-20,0.995,0
+Uzbekistan,116,116,34.3,EUR,JEE Not Done and Expressed No Interest,,0,0,0,0,0,UZB,1-Jul-20,0.777,0.06
+Azerbaijan,117,117,34.2,EUR,JEE Scheduled,,0,0,0,0,0,AZE,1-Jul-20,21.008,0.69
+St Vincent and The Grenadines,123,123,33,AMR,JEE Not Done and Expressed No Interest,,0,0,0,0,0,VCT,1-Jul-20,0,0
+Guatemala,125,125,32.7,AMR,JEE Not Done and Expressed No Interest,,0,0,0,0,0,GTM,1-Jul-20,43.147,1.507
+Monaco,127,125,32.7,EUR,JEE Not Done and Expressed No Interest,,0,0,0,0,0,MCO,1-Jul-20,127.408,0
+Brunei,128,128,32.6,WPR,Completed but Unpublished,,0,0,0,0,0,BRN,1-Jul-20,6.857,0
+Tajikistan,131,130,32.3,EUR,Completed but Unpublished,,0,0,0,0,0,TJK,1-Jul-20,5.452,0
+Barbados,133,133,31.9,AMR,JEE Not Done and Expressed No Interest,,0,0,0,0,0,BRB,1-Jul-20,24.359,0
+Belize,135,135,31.8,AMR,Completed but Unpublished,v1,0,0,0,0,0,BLZ,1-Jul-20,5.03,0
+Guyana,137,137,31.7,AMR,JEE Not Done and Expressed No Interest,,0,0,0,0,0,GUY,1-Jul-20,15.256,0
+Haiti,138,138,31.5,AMR,Completed but Unpublished,,0,0,0,0,0,HTI,1-Jul-20,9.208,0
+San Marino,141,139,31.1,EUR,JEE Not Done and Expressed No Interest,,0,0,0,0,0,SMR,1-Jul-20,1237.551,0
+Bahamas,142,142,30.6,AMR,JEE Not Done and Expressed No Interest,,0,0,0,0,0,BHS,1-Jul-20,27.972,0
+Andorra,143,143,30.5,EUR,JEE Not Done and Expressed No Interest,,0,0,0,0,0,AND,1-Jul-20,673.008,0
+Cabo Verde,146,146,29.3,AFR,Completed but Unpublished,,0,0,0,0,0,CPV,1-Jul-20,26.979,5.396
+Antigua and Barbuda,147,147,29,AMR,JEE Not Done and Expressed No Interest,,0,0,0,0,0,ATG,1-Jul-20,30.635,0
+Jamaica,148,147,29,AMR,JEE Not Done and Expressed No Interest,,0,0,0,0,0,JAM,1-Jul-20,3.377,0
+Papua New Guinea,155,155,27.8,WPR,JEE Scheduled,,0,0,0,0,0,PNG,1-Jul-20,0,0
+Honduras,156,156,27.6,AMR,JEE Not Done and Expressed No Interest,,0,0,0,0,0,HND,1-Jul-20,50.179,1.212
+Grenada,157,157,27.5,AMR,Completed but Unpublished,,0,0,0,0,0,GRD,1-Jul-20,0,0
+Samoa,162,162,26.4,WPR,JEE Not Done and Expressed No Interest,,0,0,0,0,0,NA,NA,NA,NA
+St Kitts and Nevis,163,163,26.2,AMR,JEE Not Done and Expressed No Interest,,0,0,0,0,0,KNA,1-Jul-20,0,0
+Vanuatu,165,165,26.1,WPR,JEE Not Done and Expressed No Interest,,0,0,0,0,0,NA,NA,NA,NA
+Fiji,168,168,25.7,WPR,JEE Not Done and Expressed No Interest,,0,0,0,0,0,FJI,1-Jul-20,0,0
+Angola,170,170,25.2,AFR,Completed but Unpublished,,0,0,0,0,0,AGO,1-Jul-20,0.396,0.061
+Tonga,171,171,25.1,WPR,JEE Not Done and Expressed No Interest,,0,0,0,0,0,NA,NA,NA,NA
+Dominica,172,172,24,AMR,JEE Not Done and Expressed No Interest,,0,0,0,0,0,DMA,1-Jul-20,0,0
+Algeria,173,173,23.6,AFR,JEE Scheduled,,0,0,0,0,0,DZA,1-Jul-20,20.798,0.16
+Palau,179,179,21.9,WPR,Completed but Unpublished,,0,0,0,0,0,NA,NA,NA,NA
+Tuvalu,181,181,21.6,WPR,JEE Not Done and Expressed No Interest,,0,0,0,0,0,NA,NA,NA,NA
+Nauru,182,182,20.8,WPR,JEE Not Done and Expressed No Interest,,0,0,0,0,0,NA,NA,NA,NA
+Solomon Islands,183,183,20.7,WPR,JEE Not Done and Expressed No Interest,,0,0,0,0,0,NA,NA,NA,NA
+Niue,184,184,20.5,WPR,JEE Not Done and Expressed No Interest,,0,0,0,0,0,NA,NA,NA,NA
+Cook Islands,185,185,20.4,WPR,JEE Not Done and Expressed No Interest,,0,0,0,0,0,NA,NA,NA,NA
+Kiribati,189,189,19.2,WPR,JEE Not Done and Expressed No Interest,,0,0,0,0,0,NA,NA,NA,NA
+Yemen,190,190,18.5,EMR,JEE Scheduled,,0,0,0,0,0,YEM,1-Jul-20,10.461,0.268
+Marshall Islands,191,191,18.2,WPR,Completed but Unpublished,,0,0,0,0,0,NA,NA,NA,NA
+Equatorial Guinea,195,195,16.2,AFR,Completed but Unpublished,,0,0,0,0,0,GNQ,1-Jul-20,22.809,0
